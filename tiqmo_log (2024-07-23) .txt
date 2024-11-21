@@ -1,0 +1,5 @@
+bindCardConfirmPay+++orderNo: TU9660100852555581721730506479checkcredit: MADA (202407231328) 
+bindCardConfirmPay+++orderNo: TU9660100852555581721730506479checkcredit: MADA (202407231328) 
+bindCardConfirmPay+++orderNo: TU9660100852558961721730538637checkcredit: MADA (202407231329) 
+bindCardConfirmPay+++cardBind3DSEntity: CardBind3DSEntity{redirectUrl='null', checkoutId='53F483497392AF29C13FCD54B1AB97B3.prod02-vm-tx10', orderNo='TU9660100852558961721730538637', protocolNo='10760002108920', creditType='MADA', paymentId='null', riskControlEntity=null} (202407231329) 
+bindCardConfirmPay+++paymentParams: com.oppwa.mobile.connect.payment.card.CardPaymentParams@11c10d32 (202407231329) 
